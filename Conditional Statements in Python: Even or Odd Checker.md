@@ -26,4 +26,4 @@ else:
 
 
 ## Result
-Thus the program is executed successfully.
+Thus,the python program to check whether the given number is **even** or **odd** using `if...else` statements has been executed sucessfully.
